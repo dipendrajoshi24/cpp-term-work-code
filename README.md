@@ -20,7 +20,5 @@ If you would like to contribute, please fork the repository and submit a pull re
 ## Contact
 For any queries, feel free to reach out at dipendrajoshi062@gmail.com or open an issue on GitHub.
 
----
-
-Happy Coding! 🚀
+Happy Coding! 
 
