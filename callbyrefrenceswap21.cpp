@@ -13,12 +13,12 @@ int main() {
     cin >> a >> b;
 
     cout << "\nBefore Swapping:" << endl;
-    cout << "a = " << a << ", b = " << b << endl;
+    cout << "a = " << a << ",b = " << b << endl;
 
     swap(a, b);
 
     cout << "\nAfter Swapping:" << endl;
-    cout << "a = " << a << ", b = " << b << endl;
+    cout << "a = " << a << ",b = " << b << endl;
 
     return 0;
 }
