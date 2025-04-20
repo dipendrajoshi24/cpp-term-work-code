@@ -17,8 +17,5 @@ This repository contains C++ programs developed as part of the term work in  my 
 ## Contributing
 If you would like to contribute, please fork the repository and submit a pull request with your enhancements or bug fixes.
 
-## Contact
-For any queries, feel free to reach out at dipendrajoshi062@gmail.com or open an issue on GitHub.
-
 Happy Coding! 
 
