@@ -1,4 +1,3 @@
-//Q23 WAP to find sum of all the even and odd elements in an array.
 #include <iostream>
 using namespace std;
 
