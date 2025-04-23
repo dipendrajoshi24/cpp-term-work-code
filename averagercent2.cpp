@@ -1,4 +1,3 @@
-// WAP to input 5 integer numbers from user and calculate their percentage.
 #include<iostream>
 using namespace std;
 int main()
