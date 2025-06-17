@@ -6,7 +6,7 @@ This repository contains C++ programs developed as part of the term work in  my 
 
 # Features
 
-  - Well-structured C++ code with comments for easy understanding.
+ - Well-structured C++ code with comments for easy understanding.
   - Implementation of key C concepts in C++ such as
   - Basic Input/Output (cin, cout, printf, scanf)
   - Control Structures (if-else, loops, switch-case)
