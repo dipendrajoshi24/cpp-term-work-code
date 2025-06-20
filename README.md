@@ -1,7 +1,6 @@
 # C++ Term Work
 
 #  Overview
-
 This repository contains C++ programs developed as part of the term work in  my second semster. The programs primarily focus on implementing C programming concepts using C++ syntax.
 
 # Features
